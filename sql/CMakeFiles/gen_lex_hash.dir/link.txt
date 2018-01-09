@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall -Wno-unused-parameter -Wall -Wextra -Wunused -Wwrite-strings -Wunused-variable -Wunused-label -Wunused-function -Wunused-but-set-variable -Wno-strict-aliasing  -Wno-unused-parameter -Woverloaded-virtual -O3 -DNDEBUG -DDBUG_OFF    CMakeFiles/gen_lex_hash.dir/gen_lex_hash.cc.o  -o gen_lex_hash  -lpthread 
